@@ -1,8 +1,0 @@
-'menu': [
-  {
-    'label': 'Packages'
-    'submenu': [
-      'label': 'indent-guide-ext'
-    ]
-  }
-]
