@@ -1,7 +1,7 @@
 {
   "name": "indent-guide-ext",
   "main": "./lib/indent-guide-ext",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Can detect both tab and space",
   "repository": "https://github.com/SKAhack/indent-guide-ext",
   "license": "MIT",
